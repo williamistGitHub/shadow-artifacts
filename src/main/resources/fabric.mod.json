@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "shadow_artifacts",
+  "version": "${version}",
+  "name": "Shadow Artifacts",
+  "description": "",
+  "authors": [
+    "williamist",
+    "BowserKing"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/ShadowArtifacts/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "tech.williamist.shadowartifacts.client.ShadowArtifactsClient"
+    ],
+    "main": [
+      "tech.williamist.shadowartifacts.ShadowArtifacts"
+    ]
+  },
+  "mixins": [
+    "ShadowArtifacts.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.16",
+    "fabric": "*",
+    "minecraft": "1.19.3"
+  }
+}
