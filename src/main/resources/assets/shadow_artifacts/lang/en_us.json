@@ -47,80 +47,118 @@
   "shadow_artifacts.emblems.viability.description": "Obtained by using Urkolow's Journal on a Polar Bear, Low Success Rate",
 
   "shadow_artifacts.emblems.flames": "Emblem of Flames",
+  "shadow_artifacts.emblems.flames.description": "Obtained by using Urkolow's Journal on a Blaze",
 
   "shadow_artifacts.emblems.peril": "Emblem of Peril",
+  "shadow_artifacts.emblems.peril.description": "Obtained by using Urkolow's Journal on a Chicken Jockey, Skeleton Horseman or Spider Jockey, Low Success Rate",
 
   "shadow_artifacts.emblems.anxiety": "Emblem of Anxiety",
+  "shadow_artifacts.emblems.anxiety.description": "Obtained by using Urkolow's Journal on a Creeper",
 
   "shadow_artifacts.emblems.looming_fate": "Emblem of Looming Fate",
+  "shadow_artifacts.emblems.looming_fate.description": "Obtained by using Urkolow's Journal on an Evoker, Low Success Rate",
 
   "shadow_artifacts.emblems.omnipresence": "Emblem of Omnipresence",
+  "shadow_artifacts.emblems.omnipresence.description": "Obtained by using Urkolow's Journal on an Elder Guardian, Very Low Success Rate",
 
   "shadow_artifacts.emblems.swarms": "Emblem of Swarms",
+  "shadow_artifacts.emblems.swarms.description": "Obtained by using Urkolow's Journal on a Silverfish or Endermite, Low Success Rate",
 
   "shadow_artifacts.emblems.nightmares": "Emblem of Nightmares",
+  "shadow_artifacts.emblems.nightmares.description": "Obtained by using Urkolow's Journal on a Ghast, Low Success Rate",
 
   "shadow_artifacts.emblems.observance": "Emblem of Observance",
+  "shadow_artifacts.emblems.observance.description": "Obtained by using Urkolow's Journal on a Guardian, Low Success Rate",
 
   "shadow_artifacts.emblems.wandering": "Emblem of Wandering",
+  "shadow_artifacts.emblems.wandering.description": "Obtained by using Urkolow's Journal on a Magma Cube, Low Success Rate",
 
   "shadow_artifacts.emblems.despise": "Emblem of Despise",
+  "shadow_artifacts.emblems.despise.description": "Obtained by using Urkolow's Journal on a Phantom",
 
   "shadow_artifacts.emblems.bloodlust": "Emblem of Bloodlust",
+  "shadow_artifacts.emblems.bloodlust.description": "Obtained by using Urkolow's Journal on a Pillager or Vindicator",
 
   "shadow_artifacts.emblems.destruction": "Emblem of Destruction",
+  "shadow_artifacts.emblems.destruction.description": "Obtained by using Urkolow's Journal on a Ravager, Very Low Success Rate",
 
   "shadow_artifacts.emblems.cowardice": "Emblem of Cowardice",
+  "shadow_artifacts.emblems.cowardice.description": "Obtained by using Urkolow's Journal on a Shulker, Low Success Rate",
 
   "shadow_artifacts.emblems.absorption": "Emblem of Absorption",
+  "shadow_artifacts.emblems.absorption.description": "Obtained by using Urkolow's Journal on a Slime",
 
   "shadow_artifacts.emblems.summoning": "Emblem of Summoning",
+  "shadow_artifacts.emblems.summoning.description": "Obtained by using Urkolow's Journal on a Vex",
 
   "shadow_artifacts.emblems.isolation": "Emblem of Isolation",
+  "shadow_artifacts.emblems.isolation.description": "Obtained by using Urkolow's Journal on a Witch",
 
   "shadow_artifacts.emblems.curses": "Emblem of Curses",
+  "shadow_artifacts.emblems.curses.description": "Obtained by using Urkolow's Journal on a Wither Skeleton, Very Low Success Rate",
 
   "shadow_artifacts.emblems.death": "Emblem of Death",
+  "shadow_artifacts.emblems.death.description": "Obtained by using Urkolow's Journal on the Wither, Very Low Success Rate",
 
   "shadow_artifacts.emblems.chaos": "Emblem of Chaos",
+  "shadow_artifacts.emblems.chaos.description": "Obtained by using Urkolow's Journal on the Ender Dragon, Very Low Success Rate",
 
   "shadow_artifacts.emblems.obliteration": "Emblem of Obliteration",
+  "shadow_artifacts.emblems.obliteration.description": "",
 
   "shadow_artifacts.emblems.manipulation": "Emblem of Manipulation",
+  "shadow_artifacts.emblems.manipulation.description": "",
 
   "shadow_artifacts.emblems.paranoia": "Emblem of Paranoia",
+  "shadow_artifacts.emblems.paranoia.description": "",
 
   "shadow_artifacts.emblems.disaster": "Emblem of Disaster",
+  "shadow_artifacts.emblems.disaster.description": "",
 
   "shadow_artifacts.emblems.disorder": "Emblem of Disorder",
+  "shadow_artifacts.emblems.disorder.description": "",
 
   "shadow_artifacts.emblems.corruption": "Emblem of Corruption",
+  "shadow_artifacts.emblems.corruption.description": "",
 
   "shadow_artifacts.emblems.unknowing": "Emblem of Unknowing",
+  "shadow_artifacts.emblems.unknowing.description": "",
 
   "shadow_artifacts.emblems.desire": "Emblem of Desire",
+  "shadow_artifacts.emblems.desire.description": "",
 
   "shadow_artifacts.emblems.primitive_future": "Emblem of Primitive Future",
+  "shadow_artifacts.emblems.primitive_future.description": "",
 
   "shadow_artifacts.emblems.treachery": "Emblem of Treachery",
+  "shadow_artifacts.emblems.treachery.description": "",
 
   "shadow_artifacts.emblems.desperation": "Emblem of Desperation",
+  "shadow_artifacts.emblems.desperation.description": "",
 
   "shadow_artifacts.emblems.wrath": "Emblem of Wrath",
+  "shadow_artifacts.emblems.wrath.description": "",
 
   "shadow_artifacts.emblems.greed": "Emblem of Greed",
+  "shadow_artifacts.emblems.greed.description": "",
 
   "shadow_artifacts.emblems.pride": "Emblem of Pride",
+  "shadow_artifacts.emblems.pride.description": "",
 
   "shadow_artifacts.emblems.envy": "Emblem of Envy",
+  "shadow_artifacts.emblems.envy.description": "",
 
   "shadow_artifacts.emblems.lust": "Emblem of Lust",
+  "shadow_artifacts.emblems.lust.description": "",
 
   "shadow_artifacts.emblems.gluttony": "Emblem of Gluttony",
+  "shadow_artifacts.emblems.gluttony.description": "",
 
   "shadow_artifacts.emblems.sloth": "Emblem of Sloth",
+  "shadow_artifacts.emblems.sloth.description": "",
 
   "shadow_artifacts.emblems.sins": "Emblem of Sins",
+  "shadow_artifacts.emblems.sins.description": "",
 
 
   "itemGroup.shadow_artifacts.item_group": "Shadow Artifacts"
