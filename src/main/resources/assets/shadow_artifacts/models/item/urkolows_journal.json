@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "shadow_artifacts:item/urkolows_journal"
+  }
+}
