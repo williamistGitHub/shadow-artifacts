@@ -5,53 +5,46 @@
 
   "ui.shadow_artifacts.emblemsTab": "Emblems",
 
+  "shadow_artifacts.emblems.journalAny": "Any form of Urkolow's Journal can be used to obtain this emblem.",
+  "shadow_artifacts.emblems.journalBlood": "Urkolow's Journal must be upgraded to the Blood Pact or better to obtain this emblem.",
+  "shadow_artifacts.emblems.journalUS": "Urkolow's Journal must be upgraded to the Undying Pact, Soulstorm Pact or better to obtain this emblem.",
+  "shadow_artifacts.emblems.journalUltimatum": "Urkolow's Journal must be upgraded to the Ultimatum Pact to obtain this emblem.",
+
   "shadow_artifacts.emblems.fright": "Emblem of Fright",
   "shadow_artifacts.emblems.fright.description": "Obtained by using Urkolow's Journal on a spider.",
-  "shadow_artifacts.emblems.fright.description2": "Any form of Urkolow's Journal can be used to obtain this emblem.",
 
   "shadow_artifacts.emblems.torture": "Emblem of Torture",
   "shadow_artifacts.emblems.torture.description": "Obtained by using Urkolow's Journal on a Panda",
-  "shadow_artifacts.emblems.torture.description2": "Urkolow's Journal must be upgraded to the Blood Pact or better to obtain this emblem.",
 
   "shadow_artifacts.emblems.betrayal": "Emblem of Betrayal",
   "shadow_artifacts.emblems.betrayal.description": "Obtained by using Urkolow's Journal on a Wolf or Any Passive Mob",
-  "shadow_artifacts.emblems.betrayal.description2": "Any form of Urkolow's Journal can be used to obtain this emblem.",
 
   "shadow_artifacts.emblems.dominance": "Emblem of Dominance",
   "shadow_artifacts.emblems.dominance.description": "Obtained by using Urkolow's Journal on a Llama or Trader Llama",
-  "shadow_artifacts.emblems.dominance.description2": "Any form of Urkolow's Journal can be used to obtain this emblem.",
 
   "shadow_artifacts.emblems.rebirth": "Emblem of Rebirth",
   "shadow_artifacts.emblems.rebirth.description": "Obtained by using Urkolow's Journal on a Zombie",
-  "shadow_artifacts.emblems.rebirth.description2": "Any form of Urkolow's Journal can be used to obtain this emblem.",
 
   "shadow_artifacts.emblems.screams": "Emblem of Screams",
   "shadow_artifacts.emblems.screams.description": "Obtained by using Urkolow's Journal on a Skeleton",
-  "shadow_artifacts.emblems.screams.description2": "Any form of Urkolow's Journal can be used to obtain this emblem.",
 
   "shadow_artifacts.emblems.sacrifice": "Emblem of Sacrifice",
   "shadow_artifacts.emblems.sacrifice.description": "Obtained by using Urkolow's Journal on a Bee",
-  "shadow_artifacts.emblems.sacrifice.description2": "Urkolow's Journal must be upgraded to the Blood Pact or better to obtain this emblem.",
 
   "shadow_artifacts.emblems.cruelty": "Emblem of Cruelty",
   "shadow_artifacts.emblems.cruelty.description": "Obtained by using Urkolow's Journal on a Dolphin",
-  "shadow_artifacts.emblems.cruelty.description2": "Urkolow's Journal must be upgraded to the Blood Pact or better to obtain this emblem.",
 
   "shadow_artifacts.emblems.shadows": "Emblem of Shadows",
   "shadow_artifacts.emblems.shadows.description": "Obtained by using Urkolow's Journal on an Enderman",
-  "shadow_artifacts.emblems.shadows.description2": "Any form of Urkolow's Journal can be used to obtain this emblem.",
 
   "shadow_artifacts.emblems.raging": "Emblem of Raging",
   "shadow_artifacts.emblems.raging.description": "Obtained by using Urkolow's Journal on a Piglin or a Hoglin",
-  "shadow_artifacts.emblems.raging.description2": "Urkolow's Journal must be upgraded to the Blood Pact or better to obtain this emblem.",
 
   "shadow_artifacts.emblems.collapse": "Emblem of Collapse",
   "shadow_artifacts.emblems.collapse.description": "Obtained by using Urkolow's Journal on an Iron Golem, Very Low Success Rate",
-  "shadow_artifacts.emblems.collapse.description2": "Urkolow's Journal must be upgraded to the Undying Pact, Soulstorm Pact or better to obtain this emblem.",
 
   "shadow_artifacts.emblems.viability": "Emblem of Viability",
   "shadow_artifacts.emblems.viability.description": "Obtained by using Urkolow's Journal on a Polar Bear, Low Success Rate",
-  "shadow_artifacts.emblems.viability.description2": "Urkolow's Journal must be upgraded to the Undying Pact, Soulstorm Pact or better to obtain this emblem.",
 
   "shadow_artifacts.emblems.flames": "Emblem of Flames",
 
@@ -130,5 +123,5 @@
   "shadow_artifacts.emblems.sins": "Emblem of Sins",
 
 
-  "itemGroup.shadowArtifactsTab": "Shadow Artifacts"
+  "itemGroup.shadow_artifacts.item_group": "Shadow Artifacts"
 }
