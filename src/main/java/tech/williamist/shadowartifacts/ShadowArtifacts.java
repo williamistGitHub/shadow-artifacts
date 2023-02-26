@@ -1,11 +1,14 @@
 package tech.williamist.shadowartifacts;
 
 import net.fabricmc.api.ModInitializer;
+import net.fabricmc.fabric.api.command.v2.CommandRegistrationCallback;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 import net.minecraft.util.Identifier;
+import tech.williamist.shadowartifacts.aspects.emblems.EmblemManagerCommand;
+import tech.williamist.shadowartifacts.aspects.emblems.Emblems;
 import tech.williamist.shadowartifacts.items.ItemHolder;
 
 public class ShadowArtifacts implements ModInitializer {
@@ -24,9 +27,14 @@ public class ShadowArtifacts implements ModInitializer {
     @Override
     public void onInitialize() {
         ItemHolder.registerAllItems();
+        Emblems.registerAllEmblems();
         ItemGroupEvents.modifyEntriesEvent(ITEM_GROUP).register(content -> {
             content.add(ItemHolder.URKOLOWS_JOURNAL.getItem());
         });
+        CommandRegistrationCallback.EVENT.register((dispatcher, registryAccess, environment) -> {
+            EmblemManagerCommand.register(dispatcher);
+        });
+
     }
 
 }
