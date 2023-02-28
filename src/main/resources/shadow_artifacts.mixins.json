@@ -4,6 +4,7 @@
   "package": "tech.williamist.shadowartifacts.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "PlayerSaveLoadMixin"
   ],
   "client": [
   ],

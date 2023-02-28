@@ -21,7 +21,7 @@
     ]
   },
   "mixins": [
-    "ShadowArtifacts.mixins.json"
+    "shadow_artifacts.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=0.14.16",

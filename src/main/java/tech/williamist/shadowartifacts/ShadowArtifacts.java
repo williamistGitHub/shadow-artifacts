@@ -34,7 +34,6 @@ public class ShadowArtifacts implements ModInitializer {
         CommandRegistrationCallback.EVENT.register((dispatcher, registryAccess, environment) -> {
             EmblemManagerCommand.register(dispatcher);
         });
-
     }
 
 }
